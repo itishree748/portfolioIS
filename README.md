@@ -2,7 +2,7 @@
 
 Hi, I’m Itishree 👋
 
-🎓 B.Tech student passionate about Web Development & Problem Solving
+🎓 BCA student passionate about Web Development & Problem Solving
 
 💻 Skilled in HTML, CSS, JavaScript, React, Java, and Python
 
